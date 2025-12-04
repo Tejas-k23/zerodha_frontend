@@ -1,0 +1,47 @@
+.navbar .nav-link{
+    margin-left: 40px;
+    text-decoration: none;
+}
+.navbar .nav-link {
+    color: #000 !important;
+    
+}
+
+.navbar .nav-link.active {
+    color: #000 !important;
+}
+footer a {
+  text-decoration: none !important;
+  display: block;
+
+ color: #6c757d 
+}
+.universal-img {
+  width: 40%;        
+  height: 40%;       
+  object-fit: contain; 
+}
+.li-spacing li {
+    line-height: 2.9; 
+}
+#suppourtHero{
+    background-color: rgb(56,126,209);
+    color: white;
+}
+#suppourtHero a{
+      color: white;
+      margin-top: 5px;
+      margin-right: 20px;
+
+}
+#suppourtwrap{
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 10%;
+}
+#suppourtHero input{
+    width:100%;
+    padding: 20px 50px;
+    border-radius: 10px;
+    border: none;
+}
